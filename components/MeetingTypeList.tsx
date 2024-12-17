@@ -177,4 +177,3 @@ const MeetingTypeList = () => {
 };
 
 export default MeetingTypeList;
- default MeetingTypeList default MeetingTypeList default MeetingTypeList
