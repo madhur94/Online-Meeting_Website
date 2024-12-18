@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="200" height="200" style="background-color: white; border-radius: 25px;">
+  <rect width="100%" height="100%" fill="white" rx="25" ry="25" />
+  <g>
+    <!-- Recording icon: an orange circle -->
+    <circle cx="256" cy="256" r="64" fill="orange" />
+    <!-- Overlay for the recording shape (representing a camera) -->
+    <path d="M200 256h112l40-40v80l-40-40z" fill="orange" />
+  </g>
+  <text x="50%" y="50%" text-anchor="middle" fill="blue" font-family="Arial, sans-serif" font-size="48" dy=".3em">MEET-IN</text>
+</svg>
