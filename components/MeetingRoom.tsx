@@ -59,7 +59,7 @@ const MeetingRoom = () => {
           className={cn('h-[calc(100vh-86px)] hidden ml-2', {
             'show-block': showParticipants,
           })}
-        > 
+        >
           <CallParticipantsList onClose={() => setShowParticipants(false)} />
         </div>
       </div>
