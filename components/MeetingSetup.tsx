@@ -31,7 +31,6 @@ const MeetingSetup = ({
     );
   }
 
-
   const [isMicCamToggled, setIsMicCamToggled] = useState(false);
 
   useEffect(() => {
